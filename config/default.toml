@@ -1,0 +1,12 @@
+# Default Mullvald key generator config.
+# Copy to config/local.toml to override without touching version control.
+
+seed_path = "config/seed.bin"
+default_days = 30
+max_batch = 10000
+
+[prefixes]
+basic = "MVB"
+plus  = "MVP"
+pro   = "MVR"
+team  = "MVT"
