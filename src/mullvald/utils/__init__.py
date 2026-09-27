@@ -1,0 +1,1 @@
+"""Pure helpers: logging, formatting, checksums."""
