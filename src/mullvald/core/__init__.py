@@ -1,0 +1,1 @@
+"""Core layer: key math, engine orchestration, context."""
