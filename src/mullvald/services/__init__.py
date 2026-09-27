@@ -1,0 +1,1 @@
+"""Services layer: opt-in network + filesystem side effects."""
